@@ -5,7 +5,6 @@
 
 # Update package index and upgrade packages
 apt-get update -y
-apt-get upgrade -y
 
 # Install required dependencies
 apt-get install -y build-essential libexpat1-dev libgeoip-dev libpcre3-dev libudns-dev zlib1g-dev libssl-dev libxml2 libxml2-dev rcs libpng-dev libpng-dev openssl autoconf g++ make openssl libssl-dev libcurl4-openssl-dev libcurl4-openssl-dev pkg-config libsasl2-dev libzip-dev libxml2-dev sqlite3 libsqlite3-dev libonig-dev
